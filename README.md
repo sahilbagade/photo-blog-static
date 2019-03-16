@@ -1,1 +1,1 @@
-just a demo static photo blog
+Just a demo static photo blog.
